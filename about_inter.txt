@@ -1,0 +1,5 @@
+http://www.jiajianhudong.com/question/1377216.html
+
+https://stackoverflow.com/questions/55746419/change-grid-size-of-a-netcdf-file
+
+https://ccsr.aori.u-tokyo.ac.jp/~masakazu/memo/netcdf.html
